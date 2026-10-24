@@ -15,6 +15,7 @@ One interface orchestrates **MITRE ATLAS** scenarios against agent interfaces, i
 
 - [Architecture and verdict separation](docs/architecture.en.md)
 - [Results and limits](docs/evidence.en.md)
+- [Rights and viewing terms](NOTICE.md)
 - [EAS Defense](https://github.com/deharoalexandre-cyber/EAS-Defense)
 
 This repository is documentation only. It contains no offensive primitives, executable engagement manifests, credentials, or campaign receipts. Real engagements are prepared separately with the operator. [Contact Elyne Corp](mailto:admin@elynecorp.fr) · [Catalog](https://elynecorp.com/).

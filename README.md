@@ -15,6 +15,7 @@ La même interface orchestre des scénarios **MITRE ATLAS** visant les interface
 
 - [Architecture et séparation des verdicts](docs/architecture.md)
 - [Résultats et limites](docs/evidence.md)
+- [Droits et conditions de consultation](NOTICE.md)
 - [EAS Défense](https://github.com/deharoalexandre-cyber/EAS-Defense)
 
 Ce dépôt est documentaire. Il ne contient ni primitives offensives, ni manifestes exécutables, ni identifiants ou reçus de campagne. Les engagements réels sont préparés séparément avec l'exploitant. [Contacter Elyne Corp](mailto:admin@elynecorp.fr) · [Catalogue](https://elynecorp.fr/).
